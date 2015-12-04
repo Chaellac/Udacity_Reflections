@@ -14,3 +14,6 @@ being able to work on changes made by other contributers offline whenever
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Old style send full files with summary. Less time spent following versions. Harder to track bugs and large projects.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+whenever master integrity is the main objective. It's a more lengthy flow but allows more control over changes to master
